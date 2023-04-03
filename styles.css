@@ -1,0 +1,30 @@
+body {
+     text-align: center;
+     text-size-adjust: 100px;
+     font-family: cursive;
+     background-color: blueviolet;
+     background: linear-gradient(rgb(250, 86, 182), rgb(88, 5, 88));
+}
+
+h1 {
+	color: rgb(85, 6, 85);
+	font-family: sans-serif;
+	font-size: 50px;
+}
+
+.container {
+    display: flex;
+}
+
+img {
+    filter: contrast(150%) saturate(150%);
+    border-radius: 20px;
+    margin-right: 5px;
+}
+
+p {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 25px;
+color: blanchedalmond;
+
+} 
